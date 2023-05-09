@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Raciber
 - 👀 I’m interested in know things, forms new in the path of development for the web and share my knowledge with others person. 
-- 🌱 I’m currently learning forms of optimization with javascrit vanilla
+- 🌱 I’m currently learning forms of optimization with javascritp vanilla
 - 💞️ I hope you enjoy of this content
